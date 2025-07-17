@@ -7,8 +7,6 @@ Fine-tuned a ResNet50 model using PyTorch
 
 Applied data transformations and augmentation
 
-Built a simple web app with Flask to upload and classify images
-
 📉 Limitations
 Accuracy still needs improvement
 
